@@ -1,3 +1,3 @@
 /PHPMailer
-*.map
+/css/*.map
 mail.php
